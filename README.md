@@ -1,10 +1,10 @@
 # find-replace
 
-A Clojure library designed to ... well, that part is up to you.
+Code snippet used to find and replace text within files of a directory. Current iteration must be run inside repl.
 
 ## Usage
 
-FIXME
+Update code with target directory and update regex and replacement text
 
 ## License
 
